@@ -1,6 +1,3 @@
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.File;
 import java.util.Scanner;
 import java.util.HashMap;
 
