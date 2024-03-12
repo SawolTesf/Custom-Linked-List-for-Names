@@ -24,6 +24,14 @@ The Java Custom Linked List for Names is a backend application that implements a
 
 The Java Custom Linked List for Names is developed using Java. It employs a custom linked list structure to store and manage names based on user inputs.
 
+## How to Use
+
+To use this program, you need to have Java installed on your machine. Once you have Java installed, you can run the program using the following command:
+
+java Namelist < input.txt
+
+Replace input.txt with the path to your input file. The input file should contain the commands for the program to execute.
+
 ## Future Improvements
 
 In the future, I plan to enhance the app with the following features:
