@@ -32,14 +32,6 @@ java Namelist < input.txt
 
 Replace input.txt with the path to your input file. The input file should contain the commands for the program to execute.
 
-## Future Improvements
-
-In the future, I plan to enhance the app with the following features:
-
-- **User Authentication**: Allow users to create accounts for personalized experiences.
-- **Multiple Lists**: Extend the system to handle multiple lists.
-- **Advanced Name Management**: Provide an option for users to select non-sequential names or names from different letters.
-
 ## Contact
 
 I am excited about this project and eager to improve it further. Your feedback, contributions, and suggestions are highly appreciated. Please feel free to reach out if you have any questions or would like to collaborate. Thank you for visiting the Java Custom Linked List for Names project!
