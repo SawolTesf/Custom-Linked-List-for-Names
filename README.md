@@ -1,12 +1,10 @@
-# Custom Linked List Structure
+# Custom Linked List for Names
 
-Welcome to the Custom Linked List Structure project! This project is a Java-based application that creates a custom linked list structure for storing names in a sorted order.
+Welcome to the Java Custom Linked List for Names project! This project is a Java-based application that creates a custom linked list structure specifically designed for storing and managing names.
 
 ## Project Description
 
-The Custom Linked List Structure is a backend application that implements a unique linked list structure. The structure stores names and supports operations like adding a name, removing a name or a letter, finding a name, and printing the list.
-
-Please note: This project is purely for demonstration purposes and does not process actual data.
+The Java Custom Linked List for Names is a backend application that implements a unique linked list structure. The structure stores names in a sorted order and supports operations like adding a name, removing a name or a letter, finding a name, and printing the list.
 
 ## Key Features
 
@@ -24,7 +22,7 @@ Please note: This project is purely for demonstration purposes and does not proc
 
 ## Technical Details
 
-The Custom Linked List Structure is developed using Java. It employs a custom linked list structure to store and manage names based on user inputs.
+The Java Custom Linked List for Names is developed using Java. It employs a custom linked list structure to store and manage names based on user inputs.
 
 ## Future Improvements
 
@@ -36,4 +34,4 @@ In the future, I plan to enhance the app with the following features:
 
 ## Contact
 
-I am excited about this project and eager to improve it further. Your feedback, contributions, and suggestions are highly appreciated. Please feel free to reach out if you have any questions or would like to collaborate. Thank you for visiting the Custom Linked List Structure project!
+I am excited about this project and eager to improve it further. Your feedback, contributions, and suggestions are highly appreciated. Please feel free to reach out if you have any questions or would like to collaborate. Thank you for visiting the Java Custom Linked List for Names project!
